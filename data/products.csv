@@ -1,0 +1,7 @@
+product_id,name,line_hours_per_batch,packing_hours_per_batch,profit_egp_per_batch,cartons_per_batch
+P1,Crunchy Chips,1.0,2.0,300,40
+P2,Date Bars,2.0,1.0,400,30
+P3,Sesame Sticks,1.5,1.0,320,35
+P4,Peanut Brittle,2.0,1.5,450,25
+P5,Lentil Crackers,1.0,1.0,250,40
+P6,Halawa Bites,2.5,1.0,500,20

@@ -1,0 +1,4 @@
+warehouse_id,name,location,region,lat,lon,capacity_cartons_per_week,handling_egp_per_carton
+W1,Cairo warehouse,Obour City,Cairo,30.228,31.478,1500,1.5
+W2,Alexandria warehouse,Amreya,Alexandria,31.02,29.8,1000,1.2
+W3,Delta warehouse,Tanta,Delta,30.79,31.0,900,1.0

@@ -1,0 +1,3 @@
+plant_id,name,location,lat,lon,line_hours_per_week,packing_hours_per_week,capacity_cartons_per_week
+PL1,Cairo plant,10th of Ramadan City,30.296,31.745,40,50,1600
+PL2,Alexandria plant,New Borg El Arab,30.866,29.576,32,44,1200

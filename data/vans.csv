@@ -1,0 +1,9 @@
+van_id,warehouse_id,capacity_cartons,cost_egp_per_km,shift_hours
+V1,W1,180,3.61,8
+V2,W1,150,3.66,8
+V3,W1,180,3.77,8
+V4,W2,180,3.55,8
+V5,W2,150,3.27,8
+V6,W2,180,4.02,8
+V7,W3,150,4.13,8
+V8,W3,180,3.25,8

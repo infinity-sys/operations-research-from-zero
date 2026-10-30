@@ -1,0 +1,7 @@
+plant_id,warehouse_id,distance_km,cost_egp_per_carton
+PL1,W1,33.4,4.0
+PL1,W2,253.4,17.2
+PL1,W3,112.6,8.8
+PL2,W1,244.3,16.7
+PL2,W2,34.2,4.1
+PL2,W3,170.3,12.2
