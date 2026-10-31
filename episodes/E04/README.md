@@ -1,6 +1,6 @@
 # E04: Your OR Toolkit in Python: NumPy, pandas, PuLP, SciPy, OR-Tools and NetworkX
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/G8GUiTRUiQ8
 
 This episode opens with the solution of the E03 exercise (the gift boxes: matrix form, slack, Gaussian elimination,
 NumPy and PuLP), then sets up the six Python libraries of the course, loads the Nile Snacks data with pandas, solves
