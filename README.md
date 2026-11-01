@@ -13,4 +13,14 @@ students and anyone who makes decisions. Python basics: the Data Science course 
 
 Install: `pip install "pulp[cbc]" pandas` (PuLP 4 needs Python 3.12 or newer).
 
+## Episodes
+New episodes every Wednesday and Saturday at 18:00 Cairo time.
+
+| # | Episode | Video | Code |
+|---|---|---|---|
+| E01 | What Is Operations Research? | https://youtu.be/DVvRopAnH8E | [`episodes/E01`](episodes/E01) |
+| E02 | Thinking Like a Modeler | https://youtu.be/xeC5g9LnYm0 | [`episodes/E02`](episodes/E02) |
+| E03 | The Math You Need | https://youtu.be/yGutz7jXnKk | [`episodes/E03`](episodes/E03) |
+| E04 | Your OR Toolkit in Python | https://youtu.be/G8GUiTRUiQ8 | [`episodes/E04`](episodes/E04) |
+
 Prepared by Infinity Systems · www.infinitysys.org
