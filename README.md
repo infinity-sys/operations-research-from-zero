@@ -22,5 +22,6 @@ New episodes every Wednesday and Saturday at 18:00 Cairo time.
 | E02 | Thinking Like a Modeler | https://youtu.be/xeC5g9LnYm0 | [`episodes/E02`](episodes/E02) |
 | E03 | The Math You Need | https://youtu.be/yGutz7jXnKk | [`episodes/E03`](episodes/E03) |
 | E04 | Your OR Toolkit in Python | https://youtu.be/G8GUiTRUiQ8 | [`episodes/E04`](episodes/E04) |
+| E05 | Formulating Linear Programs | https://youtu.be/Z-OBZtKwww4 | [`episodes/E05`](episodes/E05) |
 
 Prepared by Infinity Systems · www.infinitysys.org

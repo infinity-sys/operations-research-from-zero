@@ -1,6 +1,6 @@
 # E05: Formulating Linear Programs: Product Mix and Classic Patterns
 
-Video: VIDEO_LINK_PLACEHOLDER
+Video: https://youtu.be/Z-OBZtKwww4 (premieres Wed 4 Nov 2026, 18:00 Cairo)
 
 This episode opens with the solution of the E04 exercise (pandas, NetworkX, PuLP and SciPy), then formulates
 linear programs at scale: sets, parameters, variables and the model written with sums. Three formulations on the
