@@ -24,5 +24,6 @@ New episodes every Wednesday and Saturday at 18:00 Cairo time.
 | E04 | Your OR Toolkit in Python | https://youtu.be/G8GUiTRUiQ8 | [`episodes/E04`](episodes/E04) |
 | E05 | Formulating Linear Programs | https://youtu.be/Z-OBZtKwww4 | [`episodes/E05`](episodes/E05) |
 | E06 | The Graphical Method | https://youtu.be/yT8AumUcrMk | [`episodes/E06`](episodes/E06) |
+| E07 | Solving It in Python with PuLP | https://youtu.be/AQJxYNmDLPI | [`episodes/E07`](episodes/E07) |
 
 Prepared by Infinity Systems · www.infinitysys.org

@@ -1,6 +1,6 @@
 # E07: Solving Linear Programs in Python with PuLP
 
-Video: (link added after upload; premieres Wed 11 Nov 2026, 18:00 Cairo)
+Video: https://youtu.be/AQJxYNmDLPI (premieres Wed 11 Nov 2026, 18:00 Cairo)
 
 This episode opens with the solution of the E06 exercise (the sesame and sugar suppliers, solved by picture and in
 PuLP), then builds the full PuLP workflow: a model built from the data files with named constraints, the status
