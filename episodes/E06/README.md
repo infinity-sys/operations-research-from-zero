@@ -1,6 +1,6 @@
 # E06: The Graphical Method: Solving a Linear Program by Picture
 
-Video: (link added after upload; premieres Sat 7 Nov 2026, 18:00 Cairo)
+Video: https://youtu.be/yT8AumUcrMk (premieres Sat 7 Nov 2026, 18:00 Cairo)
 
 This episode opens with the solution of the E05 exercise (the Alexandria plant, formulated and solved in PuLP, with
 the slack of every constraint), then solves the same two-variable linear program by picture: every constraint as a
