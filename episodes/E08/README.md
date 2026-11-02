@@ -1,6 +1,6 @@
 # E08: Standard Form, Slack, Surplus and Basic Solutions
 
-Video: (link added after upload; premieres Sat 14 Nov 2026, 18:00 Cairo)
+Video: https://youtu.be/EfAXWJ8xQLY (premieres Sat 14 Nov 2026, 18:00 Cairo)
 
 This episode opens with the solution of the E07 exercise (the Cairo plant with whole batches in PuLP), then rewrites
 the Alexandria model in standard form: every constraint an equation, every variable at least zero, with slack
