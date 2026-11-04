@@ -17,7 +17,8 @@ The scripts that read data use the CSV files in `../../data/`; run them from thi
   plants.csv; writes `cairo.lp`. Optimal, 10,190 EGP a week: 17 batches of chips, 7 of lentil crackers, 2 of the
   rest. Line 40/40 and packing 50/50 binding; cartons 1,180 of 1,600 (420 spare).
 - `check_status.py`: Optimal (10, 4.8) 6,900; with a shop order of 14 the status is Infeasible but values are
-  still printed; without the line constraint, Unbounded.
+  still printed; without the line constraint, Unbounded. (The model here leaves out the packing and cartons rows,
+  which never bind at the optimum; with them in, dropping the line row would not make it unbounded.)
 - `whole_batches.py`: continuous 6,900; rounded down (10, 4) 6,500; integer (6, 8) 6,700.
 - `what_if.py`: Alexandria line hours 32, 33, 34, 36, 40 give 6,900, 7,100, 7,300, 7,700, 8,500 EGP:
   +200 EGP per extra hour while the same corner stays best.
