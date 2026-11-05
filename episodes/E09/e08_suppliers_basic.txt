@@ -1,0 +1,6 @@
+choices 15: singular 1, infeasible 9, feasible 5
+zeros e1, e2   -> (a, b) = (4, 3)  cost = 39,000
+zeros e1, s4   -> (a, b) = (2.33333, 8)  cost = 54,000
+zeros b, e2    -> (a, b) = (10, 0)  cost = 60,000
+zeros s3, s4   -> (a, b) = (4, 8)  cost = 64,000
+zeros b, s3    -> (a, b) = (12, 0)  cost = 72,000

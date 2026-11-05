@@ -26,5 +26,6 @@ New episodes every Wednesday and Saturday at 18:00 Cairo time.
 | E06 | The Graphical Method | https://youtu.be/yT8AumUcrMk | [`episodes/E06`](episodes/E06) |
 | E07 | Solving It in Python with PuLP | https://youtu.be/AQJxYNmDLPI | [`episodes/E07`](episodes/E07) |
 | E08 | Standard Form, Slack, Surplus and Basic Solutions | https://youtu.be/EfAXWJ8xQLY | [`episodes/E08`](episodes/E08) |
+| E09 | The Simplex Method, Step by Step | (link after upload; planned Wed 18 Nov 2026 18:00 Cairo) | [`episodes/E09`](episodes/E09) |
 
 Prepared by Infinity Systems · www.infinitysys.org
